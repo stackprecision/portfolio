@@ -33,7 +33,7 @@ export const links = [
 
 export const experiencesData = [
     {
-        title: "Data Scientist",
+        title: "Data Engineer",
         location: "Noosa, Australia (Remote)",
         company: "Tribes.AI",
         description: "Assisted in the development of ETL pipelines for a workplace analytics product. Extracted data from APIs from various providers such as Google, Microsoft, Hubspot etc. Transformed data using Neo4j graph database and used Airflow for automating the process. Loaded data into Google BigQuery for further usage by the data science team.",
