@@ -30,13 +30,13 @@ export default function Intro() {
 						}}
 					>
 						<Image
-							src="/profile-pic.png"
+							src="/Bew_0130.jpg"
 							alt="Ricardo portrait"
 							width="200"
 							height="200"
 							quality="95"
 							priority={true}
-							className="h-30 w-30 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
+							className="h-56 w-56 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
 						/>
 					</motion.div>
 
