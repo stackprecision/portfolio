@@ -20,17 +20,11 @@ export default function About() {
 			<SectionHeading>About me</SectionHeading>
 
 			<p className="mb-3">
-				I am a software enthusiast and a fervent follower of the Cloud
-				ecosystem, enjoying exploring and tinkering with
-				infrastructures. Currently, I am pursuing a Master&apos;s degree
-				in Computer Science at the University of Passau. My core stack
-				is{" "}
-				<span className="font-medium">
-					React, Next.js, Typescript, Node.js, and MongoDB
-				</span>
-				. I am also familiar with Prisma. I am currently looking for a
-				Working Student position as a{" "}
-				<span className="font-bold text-xl">Full Stack Developer</span>.
+            I&apos;m a frontend-focused software engineer with 2+ years of experience building responsive, accessible, and high-performance web applications using{" "} <span>React.js, TypeScript, JavaScript (ES6+), HTML5, and CSS3</span>. I thrive on creating customer-facing features that are intuitive, engaging, and optimized for performance.
+
+My background spans Agile team collaboration, test automation, and cloud-native deployments, with proven results in improving UI responsiveness, reducing page load times, and boosting user engagement. I enjoy taking complex problems and turning them into elegant, scalable solutions that work seamlessly across devices.
+
+
 			</p>
 
 			<p>
